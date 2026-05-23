@@ -1,6 +1,6 @@
 # Qwen W4A16/W8A16 GEMM CUDA Fusion Kernel
 
-针对 Qwen 大语言模型的 INT4/INT8 量化推理加速方案，实现 W4A16 和 W8A16 融合 CUDA 算子。
+针对 Qwen 系列大语言模型的 INT4/INT8 量化（仅权重）推理加速方案，实现 W4A16 和 W8A16 融合 CUDA 算子。
 
 ## 项目简介
 
