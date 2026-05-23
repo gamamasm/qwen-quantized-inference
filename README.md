@@ -87,6 +87,7 @@ python test_qwen_quantize.py --quant_type w8a16
 - PyTorch 2.0+
 - transformers
 - GPU 计算能力 7.0+（如 RTX 3090/4090）
+- 模型权重自行找路子下载
 
 ## 许可证
 
